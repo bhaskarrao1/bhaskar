@@ -1,6 +1,7 @@
 vi sample.c
 void main()
 { 
+void ADD()
 ....
   printf("hello bhaskar");
   printf(" sathya tech"); 
