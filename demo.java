@@ -1,8 +1,16 @@
 class Demo
-{
- p s void main() 
  {
-  .....
-  s.o.p("hello");
+  void DEPOSITE()
+   {
+    ....
+   }
+   void WITHDRAW()
+  {
+    .......
   }
-}
+  public static void main()
+   {
+    ......
+    s.o.p("hello");
+    }
+   }
